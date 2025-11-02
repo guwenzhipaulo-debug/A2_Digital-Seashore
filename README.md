@@ -47,4 +47,9 @@ S – show / hide subtitles
 ← / → – decrease / increase base subtitle speed
 
 Scene breathes automatically every 5.5 s + 5.5 s
+
 https://github.com/user-attachments/assets/a416b3bc-99c0-4a6b-b062-530b730eb0b7
+
+<img width="789" height="596" alt="截屏2025-11-03 02 29 19" src="https://github.com/user-attachments/assets/a79c802d-f35d-4f14-bcc5-ada4fd574ecf" />
+
+<img width="783" height="592" alt="截屏2025-11-03 02 30 03" src="https://github.com/user-attachments/assets/603e8ced-590d-47cd-b861-4df5bc70ed89" />
