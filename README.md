@@ -40,6 +40,10 @@ the file is not inside another subfolder
 
 Controls
 
+https://github.com/user-attachments/assets/a416b3bc-99c0-4a6b-b062-530b730eb0b7
+
+
+
 A – toggle Day / Night
 
 S – show / hide subtitles
