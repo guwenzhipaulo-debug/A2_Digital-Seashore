@@ -40,10 +40,6 @@ the file is not inside another subfolder
 
 Controls
 
-https://github.com/user-attachments/assets/a416b3bc-99c0-4a6b-b062-530b730eb0b7
-
-
-
 A – toggle Day / Night
 
 S – show / hide subtitles
@@ -51,3 +47,4 @@ S – show / hide subtitles
 ← / → – decrease / increase base subtitle speed
 
 Scene breathes automatically every 5.5 s + 5.5 s
+https://github.com/user-attachments/assets/a416b3bc-99c0-4a6b-b062-530b730eb0b7
